@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571336, b: 0.3069219, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -793,7 +793,7 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 2147483647
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -933,7 +933,7 @@ PrefabInstance:
     - target: {fileID: 9005220659476430821, guid: 2d3a85ecde41a8246a79669975912b74,
         type: 3}
       propertyPath: m_CullingMask.m_Bits
-      value: 55
+      value: 63
       objectReference: {fileID: 0}
     - target: {fileID: 9005220659476430821, guid: 2d3a85ecde41a8246a79669975912b74,
         type: 3}
@@ -1320,7 +1320,7 @@ GameObject:
   - component: {fileID: 1361745514}
   - component: {fileID: 1361745513}
   - component: {fileID: 1361745512}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: BlueCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1611,7 +1611,7 @@ GameObject:
   - component: {fileID: 1432276023}
   - component: {fileID: 1432276022}
   - component: {fileID: 1432276021}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: ClownNose
   m_TagString: Untagged
   m_Icon: {fileID: 0}

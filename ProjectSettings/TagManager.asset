@@ -10,11 +10,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ignore 3rdPersonCamera
   - Water
   - UI
   - IgnoreCamera
-  - 
+  - Ignore 1st Person Camera
   - 
   - 
   - 
